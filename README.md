@@ -5,13 +5,6 @@
 name: Leza Younan
 located_in: Clearwater, FL
 
-education:
-  [
-    "Certified Full Stack Software Engineer",
-    "Master in Public Health",
-    "Bachelor of Science in Biology"
-  ]
-
 fields_of_interests:
   [
     "Backend Development and API Design",
