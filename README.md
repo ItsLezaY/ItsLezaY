@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:504164,25:E09AAC,50:7F6CD0,100:98AFB9&height=100&text=Hello%20World&section=header&fontSize=35&fontColor=FFFFFF)
 ![LinkedIn Personal Cover](https://github.com/ItsLezaY/ItsLezaY/assets/140553267/d2427638-0c41-4f86-a262-ab382a3b71ba)
 
-<h1 align="center">Full Stack Software Developer  <br />
+<h1 align="center">Tools and Languages: <br />
   <br>
 <p align="center">
   <a href="https://skillicons.dev">
