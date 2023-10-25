@@ -36,8 +36,6 @@ currently_learning: [
   ]
 ```
 
-
 <p align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=itslezay&show_icons=true&theme=ocean_dark&hide_border=true&card_width=350" alt="Leza's GitHub stats"> -->
   <img src="https://streak-stats.demolab.com?user=itslezay&theme=ocean-dark&hide_border=true&card_width=450" alt="Leza's github streak">
 </p>
