@@ -21,7 +21,7 @@ fields_of_interests:
     "Front-end Frameworks and Libraries"
   ]
   
-currently_learning: ["Docker, PHP and AWS"]
+currently_learning: ["PHP and AWS"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["E-sports", "Strength Training", "Meditation", "Dancing", "Travel"]
 ```
