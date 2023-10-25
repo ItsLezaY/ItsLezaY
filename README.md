@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello%20World&%20render&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello%20World&%20render&fontSize=50&fontAlignY=20&animation=fadeIn)
 <!--
 **ItsLezaY/ItsLezaY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
