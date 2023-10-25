@@ -35,3 +35,9 @@ currently_learning: [
     "Learn at least 5 new technologies"
   ]
 ```
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itslezay&show_icons=true&theme=ocean_dark" alt="Leza's GitHub stats">
+</p>
+
