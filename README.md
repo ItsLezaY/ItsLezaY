@@ -38,7 +38,9 @@ currently_learning: [
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itslezay&show_icons=true&theme=ocean_dark" alt="Leza's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=itslezay&show_icons=true&theme=ocean_dark&hide_border=true" alt="Leza's GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=itslezay&theme=ocean-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="Leza's github streak">
+
 </p>
 
 
