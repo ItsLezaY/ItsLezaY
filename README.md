@@ -27,9 +27,9 @@ currently_learning: [
     "Docker"
   ]
 
-2023 Goals:
+2023_goals:
   [
-    "Create 20+ Projects",
-    "Learn at least 5 new Technologies"
+    "Create 20+ projects",
+    "Learn at least 5 new technologies"
   ]
 ```
