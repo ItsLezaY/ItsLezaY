@@ -37,5 +37,5 @@ currently_learning: [
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itslezay&theme=ocean-dark&hide_border=true&card_width=450" alt="Leza's github streak">
+  <img src="https://streak-stats.demolab.com?user=itslezay&theme=ocean-dark&hide_border=true&card_width=450" alt="Github Streak">
 </p>
